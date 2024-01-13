@@ -1,0 +1,32 @@
+@charset "UTF-8";
+*{
+      margin: 0;
+}
+.headstyle{
+	background-color: navy;
+	width: 100%;
+	height: 50px;
+	text-align: center;
+	color : silver;
+	top: 0px;
+	position: fixed;
+}
+.head_tablestyle{
+	background-color: #808080;
+	width: 100%;
+	height: 20px;
+	text-align: center;
+	top: 50px;
+	position: fixed;
+}
+.body_all{
+	background-color: #004080;
+}
+.content_style{
+	width: 97%;
+	height: 97%;
+	top : 90px;
+	left : 1%;
+	background-color: white;
+	position: fixed;
+}
